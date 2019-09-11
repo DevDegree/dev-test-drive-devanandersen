@@ -22,4 +22,6 @@ We are going to work through pages 35-43 in Head First Ruby, where we will be bu
 
 1. Work through pages 42-43 and then make a commit.
 
+1. Push your work to GitHub.
+
 1. Make a pull request on GitHub and submit the link to it on Canvas.
